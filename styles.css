@@ -41,3 +41,18 @@ body {
   grid-row-gap: 10px;
   margin-top: 60px;
 }
+
+.correct {
+  background-color: rgb(4, 86, 4);
+  color: white;
+}
+
+.incorrect {
+  background-color: red;
+  color: white;
+}
+
+.close {
+  background-color: goldenrod;
+  color: white;
+}
